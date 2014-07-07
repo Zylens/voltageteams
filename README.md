@@ -52,7 +52,6 @@ coming soon
 * OpenPeripheralCore
 
 ## Mods:
-* Alternate Terrain Generations
 * BCTools
 * BigReactors
 * Biomesoplenty
