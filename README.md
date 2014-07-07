@@ -49,7 +49,6 @@ coming soon
 * Bspkrs
 * CodeChickenCore
 * CoroAI
-* DenLib
 * OpenPeripheralCore
 
 ## Mods:
@@ -83,6 +82,7 @@ coming soon
 * ComputerCraft
 * CraftHeraldry
 * DamageIndicatorsMod
+* DenPipes
 * DIAdvancedCompatibility
 * Dynamictanks
 * Emashercore
