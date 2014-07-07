@@ -97,6 +97,7 @@ coming soon
 * Factorization
 * Flatsigns
 * Gascraft
+* HungerOverhaul
 * HardcoreEnderExpansion
 * Highlands
 * HopperDuctMod
