@@ -39,106 +39,92 @@ coming soon
 * The team works with the community gamekeller.net together
 
 # ModListe
-## jarmods
-* forge
-* OptiFine
+## CoreMods:
+# Forge
+# HeldCore
+# Cofh
+# Enderio
+# Remoteio
+# Calclavia
+# Bspkrs
+# CodeChickenCore
+# CoroAI
+# DenLib
+# OpenPeripheralCore
 
-## mods
-* DamageIndicators
-* SortFix
-* Agriculture
-* Another One Bites the Dust (AOBD)
-* Applied Energistics
-* Aroma1997Core
-* Autoutils
-* BdLib
-* BetterStorage
-* BiblioCraft
-* BigReactors
-* Biomes 'o' Plenty
-* Buildcraft
-* buildcraft-Z/ AdditionalBuildcraftObjects
-* Calclavia Core
-* ChickenChunks
-* Chisel
-* CodeChickenCore
-* CoFH Core
-* Compactsolars
-* CompactWindmills
-* ComputerCraft
-* CraftHeraldry
-* denlib
-* DenPipes
-* DenPipes Emerald
-* DenPipes Forestry
-* DynamicTanks2
-* Emasher Resource
-* EnderIO
-* EnderStorage
-* Engineer's Toolbox
-* EnhancedPortals 3
-* Evoc
-* ExtraCells
-* Extra Utilities
-* Factorization
-* Flatsigns
-* Forestry
-* GasCraft
-* GateCopy
-* GregBackMod(GBM)
-* HopperDuctMod
-* Nuclear Control
-* iChun Util
-* IndustrialCraft 2
-* Inventory Tweaks
-* IronChest
-* JABBA
-* LogisticsPipes
-* Mariculture
-* MineFactoryReloaded
-* MobiusCore
-* Modular Force Field System MFFS
-* Modular Powersuits
-* Mystcraft
-* Natura
-* NEI-Addons
-* NEI Plugins
-* Nether Ores
-* NotEnoughItems
-* NotEnoughKeys
-* Numina
-* Obsidiplates
-* OpenBlocks
-* OpenModsLib
-* OpenPeripheralAddons
-* OpenPeripheralCore
-* PowerConverters
-* PowerCrystalsCore
-* Powersuit Addons
-* ProjectRedBase
-* ProjectRedCompat
-* ProjectRedIntegration
-* ProjectRedLighting
-* ProjectRedMechanical
-* ProjectRedWorld
-* Railcraft
-* Random Things
-* Redstone Arsenal
-* Reliquary
-* RemoteIO
-* revamp
-* slick-util
-* StevesCarts2
-* switches
-* Sync2
-* TConstruct
-* ThermalExpansion
-* Tinkers Mechworks
-* TorchLevers
-* Universal Electricity
-* Waila
-* WR-CBE
-* MineTweaker
-* ArmorStatusHUD
-* bspkrsCore
-* StatusEffectHUD
+## Mods:
+# Alternate Terrain Generations
+# BCTools
+# BigReactors
+# Biomesoplenty
+# Buildcraft
+# Forestry + addons
+# Growthcraft
+# Machinemuse (Modularforcefieldsystem)
+# Minetweaker
+# Mystcraft
+# Powerconverters
+# MinefactoryReloaded
+# Netherores
+# Railcraft
+# AppliedEnergistics
+# ArmorStatusHUD
+# Artifice
+# Autoutils
+# Barrels
+# Betterstorage
+# BibilioCraft + addons
+# CarpententersBlocks
+# CCTurtle
+# ChargePads
+# ChickenChunks
+# Chisel
+# CompactSolars
+# ComputerCraft
+# CraftHeraldry
+# DamageIndicatorsMod
+# DIAdvancedCompatibility
+# Dynamictanks
+# Emashercore
+# EnderStorage
+# EnderTanks
+# Engineer's toolbox
+# EnhancedPortals3
+# ExtendedRenderer
+# Extracells
+# ExtraTiC
+# ExtraUtilities
+# Factorization
+# Flatsigns
+# Gascraft
+# HardcoreEnderExpansion
+# Highlands
+# HopperDuctMod
+# IC2
+# IC2 NuclearControl
+# ICBM?
+# IguanaTweaksTConstruct
+# InvTweaks
+# IronChest
+# LogisticsPipes
+# MapWrite
+# Microblocks
+# ModularForeFieldSystem
+# Natura
+# NEI
+# ObsidiPlates
+# OpenBlocks
+# OpenComputers
+# OpenMods
+# Opis
+# Pamharvestcraft
+# ProjectRed
+# ResonantInduction
+# Revamp
+# Shatter
+# SteveCarts
+# Sync
+# TinkersConstruct
+# UniversalElectricity
+# Waila
+# ThermalExpansion
