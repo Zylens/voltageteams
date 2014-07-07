@@ -6,7 +6,7 @@ We haven't put the mods in the mods folder and that's all. Only the configs and 
 
 The targets for this modpack:
 * Make life in Minecraft harder
-* Do Player vs. Palyer(PVP) fight in teams
+* Do Player vs. Player(PVP) fight in teams
 * Keep ore distribution clean
 * Put Mods together with the GregBackMod (GBM)
 * give the world a new look
@@ -35,8 +35,8 @@ coming soon
 
 ## Whats the VoltageTeam ?
 * A small team of hobby-developers
-* The Team self-controlled Java and C + +
-* The Team works with the community gamekeller.net together
+* The team self-controlled Java and C + +
+* The team works with the community gamekeller.net together
 
 # ModListe
 ## jarmods
