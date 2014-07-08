@@ -334,7 +334,6 @@ Fluid: sulfurdioxidegas
 Fluid: sulfurtrioxidegas
 Fluid: sulfuricacid
 Fluid: hydrogenchloride
-Fluid: ethene
 Fluid: brine
 Ore: oreYellorite
 Ore: blockYellorium
@@ -1594,6 +1593,24 @@ Ore: oc:craftingCircuitBoard
 Ore: oc:craftingCircuitBoardPrinted
 Ore: oc:craftingCard
 Ore: oc:craftingInterweb
+Ore: stickObsidian
+Ore: obsidianRod
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
+Ore: glass
 Ore: stoneRod
 Ore: oreNetherCoal
 Ore: oreNetherDiamond
@@ -1795,7 +1812,6 @@ Ore: oreRedstone
 Ore: circuitBasic
 Ore: itemCompressedCarbon
 Ore: itemEnrichedAlloy
-Ore: itemBioFuel
 Ore: dyeRed
 Ore: dyeYellow
 Ore: dyeBlue
@@ -1993,6 +2009,7 @@ Setting up meta item with texture: 6256:0 Gate Copier gatecopy:clipboard_empty
 Setting up meta item with texture: 6256:1 Gate Copier gatecopy:clipboard_copy
 Setting up meta item with texture: 6256:2 Gate Copier gatecopy:clipboard_empty_diamond
 Setting up meta item with texture: 6256:3 Gate Copier gatecopy:clipboard_copy_diamond
+Ore: itemBioFuel
 Ore: greggy_greg_do_please_kindly_stuff_a_sock_in_it
 Ore: dyeWhite
 Ore: dyeOrange
@@ -2288,3 +2305,5 @@ Ore: projredBundledCable
 Ore: projredBundledCable
 Ore: projredBundledCable
 Ore: projredBundledCable
+Ore: craftingTableWood
+Ore: craftingTable
