@@ -24,7 +24,7 @@ coming soon
 
 ## Used Mod Versions
 The used version numbers are here:
-coming soon
+BETA164.01d
 
 # FAQ
 ## How can I get that Modpack ?
