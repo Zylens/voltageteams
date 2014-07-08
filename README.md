@@ -128,3 +128,4 @@ BETA164.01d
 * UniversalElectricity
 * Waila
 * ThermalExpansion
+* RandomThings
