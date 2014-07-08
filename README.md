@@ -29,7 +29,7 @@ coming soon
 # FAQ
 ## How can I get that Modpack ?
 * Install the TechnicLauchner from <http://www.technicpack.net/>
-* Get the code at http://www.technicpack.net/modpack/details/voltagecode (api/)
+* Get the code at http://www.technicpack.net/modpack/details/voltageteams (api/)
 * Add an new pack and paste the Platform URL
 * Press play and have fun!
 
