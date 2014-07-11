@@ -1,2 +1,3 @@
 # Please write comments here.
 # and we'll add to the list
+fix pams seed bug
