@@ -1539,6 +1539,7 @@ Ore: oreDiamond
 Ore: oreEmerald
 Ore: oreLapis
 Ore: oreFirestone
+Ore: itemSuperconductor
 Fluid: fortron
 Fluid: xpjuice
 Ore: oc:craftingCable
@@ -1611,6 +1612,7 @@ Ore: glass
 Ore: glass
 Ore: glass
 Ore: glass
+Ore: listAllmilk
 Ore: stoneRod
 Ore: oreNetherCoal
 Ore: oreNetherDiamond
@@ -2187,6 +2189,7 @@ Ore: gemEmerald
 Ore: gemLapis
 Ore: beeComb
 Ore: itemSilicon
+Ore: fz.waterBucketLike
 Ore: fz.waterBucketLike
 Ore: fz.waterBucketLike
 Ore: fz.waterBucketLike
