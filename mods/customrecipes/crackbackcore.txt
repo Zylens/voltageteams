@@ -1,0 +1,8 @@
+shaped (4+4+4 / null+280+null / null+280+null) > ( stonePickaxe )
+shaped (5+5+5 / null+280+null / null+280+null) > ( woodenPickaxe )
+shaped (5:1+5:1+5:1 / null+280+null / null+280+null) > ( woodenPickaxe )
+shaped (5:2+5:2+5:2 / null+280+null / null+280+null) > ( woodenPickaxe )
+shaped (5:3+5:3+5:3 / null+280+null / null+280+null) > ( woodenPickaxe )
+shaped (4+4+null / null+280+null / null+280+null) > ( stoneHoe )
+shaped (4+4+null / 4+280+null / null+280+null) > ( stoneAxe )
+shaped (null+4+null / null+280+null / null+280+null) > ( stoneShovel )
