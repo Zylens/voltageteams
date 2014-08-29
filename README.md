@@ -21,6 +21,7 @@ The videos are available in German language but we also support a interantionale
 ## Permissions, licences and links
 The permissions, licences, author and links are here:
 coming soon
+But at the moment GNU General Public License (GPL).
 
 ## Used Mod Versions
 The used version numbers are here:
@@ -37,6 +38,8 @@ BETA164.01d2
 * A small team of hobby-developers
 * The team self-controlled Java and C + +
 * The team works with the community gamekeller.net together
+
+#Someone must update that:
 
 # ModListe
 ## CoreMods:
