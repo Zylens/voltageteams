@@ -19,9 +19,9 @@ The targets for this modpack:
 The videos are available in German language but we also support a interantionale Community
 
 ## Permissions, licences and links
-The permissions, licences, author and links are here:
-coming soon
-But at the moment GNU General Public License (GPL).
+*The permissions, licences, author and links are here:
+*coming soon
+*But at the moment GNU General Public License (GPL).
 
 ## Used Mod Versions
 The used version numbers are here:
